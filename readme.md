@@ -5,7 +5,7 @@ This is a Midas Miner game demo made in C++ and SDL, it only has 1 harcoded leve
 
 You have 60 seconds to remove 3 or more chains or rocks before everything blows up!
 
-![](https://github.com/hectormoralespiloni/Midas-Miner-Demo/blob/master/midasminerdemo.png)
+![](https://github.com/hectormoralespiloni/Midas-Miner-Demo/blob/master/midasminer.png)
 
 Requirements:
 * Visual Studio 2012+
